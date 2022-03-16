@@ -43,6 +43,7 @@ Can you all CRUD operations, example:
 - Spring Boot H2 Database
 - Spring Data REST
 - Spring HATEOAS
+- Jenkins CI 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
